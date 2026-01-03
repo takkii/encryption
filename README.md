@@ -1,4 +1,4 @@
-### Cryptman ( 暗号化・複合化ツール )
+### Encryption
 
 [apache codec](https://commons.apache.org/proper/commons-codec/download_codec.cgi)
 
@@ -15,7 +15,11 @@ IntelliJの場合
 ### 実行
 
 ```markdown
-git clone git@github.com:takkii/Cryptman.git
+# Gitを利用
+git clone git@github.com:takkii/encryption.git
+
+# RubyGems/sheltered-girlを利用
+heat branch Cryptman takkii encryption main
 
 IntelliJの場合
 
